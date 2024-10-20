@@ -1,5 +1,5 @@
   
-![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+PRINCE+MD+💙)
+![PRINXE-MD](https://readme-typing-svg.demolab.com?font=bold&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=🥰ASSALAMUALAIKUM❣️+EVERYONE👋🏻;😍WELCOME+TO+PRINCE+MD+WhatsApp+User;BOT+💙)
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

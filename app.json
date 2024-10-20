@@ -1,8 +1,8 @@
 {
-  "name": "PRINXCE-MD-WB",
-  "description": "PRINXCE-MD-WB A SUPER WHATSAPP USER BOT",
-  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/PRINCE-GDS/PRINXCE-MD-WB",
+  "name": "PRINXCE-WB",
+  "description": "Heroku we respect your terms and conditions and privacy policies so suspend our project",
+  "keywords": ["Dastageer-ka-project-hai-bhai"],
+  "repository": "https://github.com/PRINCE-GDS/PRINXCE-WB",
   
   "stack": "container",
   "env": {

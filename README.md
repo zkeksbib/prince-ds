@@ -14,14 +14,14 @@
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/PPRINXCE-MD-WB"><img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/PRINCE-GDS/PRINXCE-WB"><img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
 <a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXCE-MD-WB/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/PRINXCE-MD-WB?&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXCE-MD-WB/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/PRINXE-MD?style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXCE-MD-WB/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/PRINXCE-MD-WB?label=Watching&style=social"></a>
+<a href="https://github.com/PRINCE-GDS/PRINXCE-WB/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/PRINXCE-MD-WB?&style=social"></a>
+<a href="https://github.com/PRINCE-GDS/PRINXCE-WB/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/PRINXE-WB?style=social"></a>
+<a href="https://github.com/PRINCE-GDS/PRINXCE-WB/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/PRINXCE-WB?label=Watching&style=social"></a>
 </p>
 
 
@@ -51,13 +51,13 @@
  
 ### <br>
 <p align="left">
-<a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/PRINXCE-MD-WB"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/PRINXCE-WB"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render"></a>
 <p/>
  
 
 ### <br>
 <p align="left">
-<a href="https://repl.it/github/PRINCE-GDS/PRINXCE-MD-WB"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit"></a>
+<a href="https://repl.it/github/PRINCE-GDS/PRINXCE-WB"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit"></a>
 <p/>
 
 ### <br>
@@ -66,7 +66,7 @@
 <p/>
 
 ### <br>
-  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FPRINCE-GDS%2FPRINXCE-MD-WB&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="30"/></a></p>
+  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FPRINCE-GDS%2FPRINXCE-WB&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="30"/></a></p>
 
 ### <br>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)

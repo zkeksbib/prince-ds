@@ -1,6 +1,6 @@
 {
   "name": "PRINXCE-WB",
-  "version": "3.5.0",
+  "version": "3.7.8",
   "description": "Multi Device WhatsApp user bot",
   "main": "index.js",
   "type": "module",
@@ -23,7 +23,7 @@
     
 "homepage": "https://github.com/PRINCE-GDS/PRINXCE-WB",
 "author": {
-"name": "PRINXCE-MD-WB" },
+"name": "PRINXCE" },
     
 "repository": {
 "type": "git",
@@ -73,7 +73,7 @@
 "g-i-s": "^2.1.6",
 "google-it": "^1.6.4",
 "got": "12.5.3",
-"heroku-client": "^3.1.0",
+"heroku-client": "*",
 "hispamemes": "^1.0.7",
 "human-readable": "^0.2.1",
 "hxz-api": "^1.0.1",

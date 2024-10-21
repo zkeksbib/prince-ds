@@ -1,6 +1,6 @@
 {
   "name": "PRINXCE-WB",
-  "version": "3.7.8",
+  "version": "1.0.0",
   "description": "Multi Device WhatsApp user bot",
   "main": "index.js",
   "type": "module",
@@ -31,8 +31,6 @@
 
 "bugs": {
 "url": "https://github.com/PRINCE-GDS/PRINXCE-WB/issues" },
-"license": "GPL-3.0-or-later",
-
     
 "dependencies": {
 "@whiskeysockets/baileys": "^6.7.8",

@@ -7,7 +7,7 @@ import path from 'path'
 import { fileURLToPath } from 'url';
 
 figlet(
-  'PRINCE BOT',
+  'PRINCE-WB',
   {
     font: 'Ghost',
     horizontalLayout: 'default',
@@ -23,7 +23,7 @@ figlet(
 )
 
 figlet(
-  'Advanced Whatsapp User Bot',
+  'An Advanced Whatsapp User B⭕T',
   {
     horizontalLayout: 'default',
     verticalLayout: 'default',
@@ -126,6 +126,6 @@ process.on('unhandledRejection', () => {
 
 process.on('exit', code => {
   console.error(chalk.red(`Exited with code: ${code}`))
-  console.error(chalk.red(`Bot will restart...`))
+  console.error(chalk.red(`B⭕T will restart...`))
   start('main.js')
 })

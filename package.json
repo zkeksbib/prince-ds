@@ -37,7 +37,7 @@
     "fs": "^0.0.1-security",
     "fs-extra": "^11.1.0",
     "g-i-s": "^2.1.6",
-    "google-it": "^1.6.4",
+    "google-it": "^1.6.3",
     "got": "^12.5.3",
     "heroku-client": "^3.1.0",
     "hispamemes": "^1.0.7",
@@ -86,8 +86,8 @@
     "ytdl-core": "^5.1.0"
   },
   "devDependencies": {
-    "eslint": "^8.46.0",
-    "eslint-config-google": "^0.15.0"
+    "eslint": "^8.45.0",
+    "eslint-config-google": "^0.14.0"
   },
   "directories": {
     "lib": "lib",
@@ -101,7 +101,7 @@
   "main": "index.js",
   "name": "prince-ds",
   "optionalDependencies": {
-    "@xct007/frieren-scraper": "^1.0.0"
+    "@xct007/frieren-scraper": "*"
   },
   "scripts": {
     "start": "node index.js",

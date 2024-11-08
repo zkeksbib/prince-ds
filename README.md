@@ -40,8 +40,8 @@
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render">
     </a>
     <br>
-    <h3 style="color: #34a853;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2</h3>
-    <a href="https://prince-new-base64-pair.onrender.com">
+    <h3 style="color: #34a853;">𝙋𝘼𝙄𝙍 QR 𝘾𝙊𝘿𝙀 2</h3>
+    <a href="https://prince-session-base64.onrender.com">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render">
     </a>
 </div>

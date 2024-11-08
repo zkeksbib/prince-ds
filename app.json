@@ -45,6 +45,16 @@
       "required": false,
       "value": "true"
        },
+      "STATUS_REPLY": {
+      "description": "Status reply true false to on off",
+      "required": false,
+      "value": "false"
+      },
+    "STATUS_MESSAGE": {
+      "description": "Status reply message",
+      "required": false,
+      "value": "Your Status has been seen by Prince bot"
+      },
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
